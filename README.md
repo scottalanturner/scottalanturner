@@ -3,6 +3,9 @@
 
 I build and teach **applied AI systems**—with a focus on *enterprise decision-making, automation, and AI agents*. My teaching philosophy is to tailor content to student's field of interest (cyber, finance, healthcare, etc.) and make it useful, practical, and relevant.
 
+In parallel, I am the co-founder of **SportSensAI**, an AI-powered platform for athletes that improves performance and reduces injury.  
+<a href="https://sportsensai.com/pitching-analysis" target="_blank" rel="noopener noreferrer">Learn more about SportSensAI</a>
+
 ---
 
 ### 🎓 Teaching (Current)
